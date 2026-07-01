@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="title desc">
+  <title id="title">Beom Jin Kim profile mark</title>
+  <desc id="desc">A simple abstract mathematical profile mark.</desc>
+  <rect width="200" height="200" fill="#f7f7f7"/>
+  <circle cx="100" cy="100" r="72" fill="#ffffff" stroke="#d8d8d8" stroke-width="2"/>
+  <path d="M48 120c20-44 37-44 55 0s35 44 55 0" fill="none" stroke="#1458a8" stroke-width="5" stroke-linecap="round"/>
+  <path d="M61 80h78M61 100h78M61 120h78" stroke="#b7b7b7" stroke-width="2" stroke-linecap="round" opacity="0.75"/>
+  <circle cx="62" cy="80" r="3" fill="#222222"/>
+  <circle cx="100" cy="100" r="3" fill="#222222"/>
+  <circle cx="138" cy="120" r="3" fill="#222222"/>
+</svg>
